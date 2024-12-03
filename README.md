@@ -1,5 +1,5 @@
 ### Previsão de Churn de Clientes com vários algoritmos 
-XGBoost | ExtraTrees | SVC | CatBoost | DecisionTree
+XGBoost | ExtraTrees | SVC | Ridge | DecisionTree
 
 - Este projeto destaca a necessidade de saber tratar bases de dados desbalanceadas (quando há pequena incidência de uma categoria dentro de um dataset (classe minoritária) em comparação com as demais categorias (classes majoritárias))
 - Como veremos, a grande maioria dos exemplos disponíveis no dataset representam casos em que não houve 'churn'.
